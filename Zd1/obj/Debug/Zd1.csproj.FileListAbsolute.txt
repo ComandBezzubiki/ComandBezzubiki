@@ -1,0 +1,7 @@
+D:\Zd1\ComandBezzubiki\Zd1\bin\Debug\Zd1.exe.config
+D:\Zd1\ComandBezzubiki\Zd1\bin\Debug\Zd1.exe
+D:\Zd1\ComandBezzubiki\Zd1\bin\Debug\Zd1.pdb
+D:\Zd1\ComandBezzubiki\Zd1\obj\Debug\Zd1.csproj.AssemblyReference.cache
+D:\Zd1\ComandBezzubiki\Zd1\obj\Debug\Zd1.csproj.CoreCompileInputs.cache
+D:\Zd1\ComandBezzubiki\Zd1\obj\Debug\Zd1.exe
+D:\Zd1\ComandBezzubiki\Zd1\obj\Debug\Zd1.pdb
